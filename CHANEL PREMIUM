@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="beinsports1premium.qa" tvg-name="beIN Sports 1 PREMIUM HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 1 PREMIUM HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/1
+#EXTINF:-1 tvg-ID="beinsports1premium.qa" tvg-name="beIN Sports 1 PREMIUM HD+" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 1 PREMIUM HD+
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/107
+#EXTINF:-1 tvg-ID="beinsports1premium.qa" tvg-name="beIN Sports 1 PREMIUM HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 1 PREMIUM HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108161
+#EXTINF:-1 tvg-ID="beinmovies1.qa" tvg-name="BEINSPORTS PREMIUM 01 HD++" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",BEINSPORTS PREMIUM 01 HD++
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/167203
+#EXTINF:-1 tvg-ID="beinsports1premium.qa" tvg-name="beIN Sports 1 PREMIUM 4K" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT 4K",beIN Sports 1 PREMIUM 4K
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/114053
+#EXTINF:-1 tvg-ID="beinsports1premium.qa" tvg-name="beIN Sports 1 PREMIUM Ultra 4K" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT 4K",beIN Sports 1 PREMIUM Ultra 4K
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/3854
+#EXTINF:-1 tvg-ID="beinsports1premium.qa" tvg-name="beIN Sports 1 PREMIUM SD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT SD",beIN Sports 1 PREMIUM SD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/2541
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium SD1+" tvg-logo="" group-title="AR | BEIN SPORT SD",Bein Sport Premium SD1+
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/151563
+#EXTINF:-1 tvg-ID="beinsports2premium.qa" tvg-name="beIN Sports 2 PREMIUM HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 2 PREMIUM HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/2
+#EXTINF:-1 tvg-ID="beinsports2premium.qa" tvg-name="beIN Sports 2 PREMIUM HD+" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 2 PREMIUM HD+
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108
+#EXTINF:-1 tvg-ID="beinsports2premium.qa" tvg-name="beIN Sports 2 PREMIUM HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 2 PREMIUM HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/108162
+#EXTINF:-1 tvg-ID="beinsports2premium.qa" tvg-name="BEINSPORTS PREMIUM 02 HD++" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",BEINSPORTS PREMIUM 02 HD++
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/167202
+#EXTINF:-1 tvg-ID="beinsports2premium.qa" tvg-name="beIN Sports 2 PREMIUM 4K" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT 4K",beIN Sports 2 PREMIUM 4K
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/114052
+#EXTINF:-1 tvg-ID="beinsports2premium.qa" tvg-name="beIN Sports 2 PREMIUM Ultra 4K" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT 4K",beIN Sports 2 PREMIUM Ultra 4K
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/3853
+#EXTINF:-1 tvg-ID="beinsports2premium.qa" tvg-name="beIN Sports 2 PREMIUM SD" tvg-logo="xxhttp://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT SD",beIN Sports 2 PREMIUM SD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/2540
+#EXTINF:-1 tvg-ID="" tvg-name="Bein Sport Premium SD2+" tvg-logo="" group-title="AR | BEIN SPORT SD",Bein Sport Premium SD2+
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/151564
+#EXTINF:-1 tvg-ID="beinsports3premium.qa" tvg-name="beIN Sports 3 PREMIUM HD" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 3 PREMIUM HD
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/3
+#EXTINF:-1 tvg-ID="beinsports3premium.qa" tvg-name="beIN Sports 3 PREMIUM HD+" tvg-logo="http://185.165.243.195/new_logo/PICONS-BOUQET-BEIN-SPORT/beinsportpremium4.png" group-title="AR | BEIN SPORT HD",beIN Sports 3 PREMIUM HD+
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/10
